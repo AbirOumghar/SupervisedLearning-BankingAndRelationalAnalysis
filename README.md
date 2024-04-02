@@ -15,20 +15,6 @@
 </ul>
 
 <h2>Results</h2>
-<p>My analysis revealed insightful patterns and predictive accuracies that underscore the complexities and potential of supervised learning in real-world applications.</p>
+<p>The analysis revealed insightful patterns and predictive accuracies that underscore the complexities and potential of supervised learning in real-world applications.</p>
 
-<h2>Tools</h2>
-<ul>
-  <li><strong>Language:</strong> Python</li>
-  <li><strong>Libraries:</strong> scikit-learn, pandas, numpy, matplotlib, seaborn for data manipulation, model implementation, and visualization.</li>
-</ul>
 
-<h2>Running the Project</h2>
-<ol>
-  <li>Clone the repo.</li>
-  <li>Install dependencies: <code>pip install numpy pandas scikit-learn matplotlib seaborn</code></li>
-  <li>Run <code>Projet_Supervised_Learning.ipynb</code> in Jupyter.</li>
-</ol>
-
-<h2>Contributions</h2>
-<p>Contributions are welcome. Please fork the repository and submit a pull request.</p>
