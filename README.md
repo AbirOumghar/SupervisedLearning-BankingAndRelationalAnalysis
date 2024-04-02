@@ -1,7 +1,7 @@
 <h1>Supervised Learning Analysis: Banking and Relational Data</h1>
 
 <h2>Project Overview</h2>
-<p>This project utilizes Python to apply supervised learning techniques to two distinct real-world data domains: banking credit assessments and relational datasets (Cora, CiteSeer, PubMed). My objective is to navigate through the inherent challenges of these datasets, deploying a variety of classification methods to gain insights and predictive accuracy.</p>
+<p>This project utilizes Python to apply supervised learning techniques to two distinct real-world data domains: banking credit assessments and relational datasets (Cora, CiteSeer, PubMed). The objective is to navigate through the inherent challenges of these datasets, deploying a variety of classification methods to gain insights and predictive accuracy.</p>
 
 <h2>Methodology</h2>
 <p>I employed several classical and contemporary supervised learning algorithms, including but not limited to Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Decision Trees. Special emphasis was placed on preprocessing techniques suitable for each dataset's nature, ensuring robust model training and evaluation.</p>
