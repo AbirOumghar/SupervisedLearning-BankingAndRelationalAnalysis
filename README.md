@@ -1,4 +1,3 @@
-# SupervisedLearning-BankingAndRelationalAnalysis
 # Supervised Learning Techniques on Real-World Data Sets
 
 This repository showcases the practical application of a range of supervised learning techniques, including Naive Bayes, KNN, LDA, QDA, Linear and Non-Linear SVM, Logistic Regression, CART, Random Forest, and more. The project focuses on analyzing two distinct types of real-world data: bank credit data and relational data sets such as Cora, CiteSeer, and PubMed, using statistical data processing tools in R and Python.
