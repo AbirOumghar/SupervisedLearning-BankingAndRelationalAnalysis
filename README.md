@@ -1,53 +1,34 @@
-# Supervised Learning Techniques on Real-World Data Sets
+<h1>Supervised Learning Analysis: Banking and Relational Data</h1>
 
-This repository showcases the practical application of a range of supervised learning techniques, including Naive Bayes, KNN, LDA, QDA, Linear and Non-Linear SVM, Logistic Regression, CART, Random Forest, and more. The project focuses on analyzing two distinct types of real-world data: bank credit data and relational data sets such as Cora, CiteSeer, and PubMed, using statistical data processing tools in R and Python.
+<h2>Project Overview</h2>
+<p>This project utilizes Python to apply supervised learning techniques to two distinct real-world data domains: banking credit assessments and relational datasets (Cora, CiteSeer, PubMed). My objective is to navigate through the inherent challenges of these datasets, deploying a variety of classification methods to gain insights and predictive accuracy.</p>
 
-## Objective
+<h2>Methodology</h2>
+<p>I employed several classical and contemporary supervised learning algorithms, including but not limited to Naive Bayes, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Decision Trees. Special emphasis was placed on preprocessing techniques suitable for each dataset's nature, ensuring robust model training and evaluation.</p>
 
-The primary goal is to apply concrete supervised learning techniques to real data sets, exploring the complexities and challenges posed by each. The project aims to predict loan repayment outcomes in the bank credit data set and to perform comparative classification methods on relational data, highlighting the unique challenges of data alignment and classification performance.
+<h3>Key Highlights:</h3>
+<ul>
+  <li><strong>Data Exploration:</strong> Initial analysis to understand the datasets' characteristics, distribution, and potential challenges.</li>
+  <li><strong>Feature Engineering:</strong> Crafting and selecting meaningful features to enhance model performance.</li>
+  <li><strong>Model Selection and Training:</strong> Comparative analysis of various algorithms to identify the most effective models for these specific datasets.</li>
+  <li><strong>Performance Evaluation:</strong> Utilizing accuracy, precision, recall, and F1-score metrics to assess model efficacy.</li>
+</ul>
 
-## Data Sets
+<h2>Results</h2>
+<p>My analysis revealed insightful patterns and predictive accuracies that underscore the complexities and potential of supervised learning in real-world applications.</p>
 
-- **Bank Credit Data**: Includes financial and banking details of clients to predict loan repayment behavior. The data set comprises 1000 examples with 20 variables.
-- **Relational Data (Cora, CiteSeer, PubMed)**: Focuses on the classification challenges posed by relational data, including the alignment of matrix values with network structures for optimal classification results.
+<h2>Tools</h2>
+<ul>
+  <li><strong>Language:</strong> Python</li>
+  <li><strong>Libraries:</strong> scikit-learn, pandas, numpy, matplotlib, seaborn for data manipulation, model implementation, and visualization.</li>
+</ul>
 
-## Methodology
+<h2>Running the Project</h2>
+<ol>
+  <li>Clone the repo.</li>
+  <li>Install dependencies: <code>pip install numpy pandas scikit-learn matplotlib seaborn</code></li>
+  <li>Run <code>Projet_Supervised_Learning.ipynb</code> in Jupyter.</li>
+</ol>
 
-- Preliminary exploratory data analysis.
-- Application of various supervised classification techniques.
-- Comparative analysis using metrics like Accuracy, NMI, and F-measure, evaluated through cross-validation or test samples.
-
-## Tools and Techniques
-
-- **Programming Languages**: R and Python.
-- **Libraries/Frameworks**: TensorFlow, Keras, scikit-learn, caret (for R), imbalanced-learn.
-- **Data Sources**: 
-  - Bank Credit Data: [German Credit Data](https://raw.githubusercontent.com/jbrownlee/Datasets/master/german.csv)
-  - Relational Data: Publicly available data sets of Cora, CiteSeer, and PubMed.
-
-## Project Report
-
-The project report, structured as a concise Notebook in Python or R, presents:
-- The analysis objective.
-- Data description.
-- Detailed analysis and methodologies applied.
-- Commentary on the results and findings.
-
-The report is designed to be comprehensive yet concise, not exceeding 20 pages, with source codes provided in appendices.
-
-## Evaluation Criteria
-
-Projects are evaluated based on:
-- The appropriateness of methods used for the data and problems studied.
-- The depth of analyses proposed.
-- The accuracy of commentary on the results.
-- The quality of report presentation.
-
-## Contribution Guidelines
-
-We encourage collaboration! If you'd like to contribute, please fork the repository and submit a pull request with your suggestions.
-
-## Contact
-
-For any queries, feel free to reach out to Prof. Lazhar Labiod at lazhar.labiod@u-paris.fr.
-
+<h2>Contributions</h2>
+<p>Contributions are welcome. Please fork the repository and submit a pull request.</p>
